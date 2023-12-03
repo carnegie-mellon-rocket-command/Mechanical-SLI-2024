@@ -1,0 +1,3 @@
+Change the global variables to what they need to be for your rocket.
+
+After changing the variables you may get an error. This is okay, just say continue and then press Ctrl-q and the model will update and the error will go away.
