@@ -1,0 +1,16 @@
+[StartTime]
+ATS-Static 2.MFC=10s
+[SolverState]
+ATS-Static 2.MFC=2
+[MainFrame]
+ATS-Static 2.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHHBAAAAAELDAAAAAKECAAAAA
+[ShowMin]
+ATS-Static 2.MFC=No
+[SolverType]
+ATS-Static 2.MFC=Linear Analysis
+[StudyType]
+ATS-Static 2.MFC=0
+[StudyName]
+ATS-Static 2.MFC=Static 2
+[Solver]
+ATS-Static 2.MFC=Sparse
